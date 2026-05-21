@@ -1,0 +1,38 @@
+name: apliarte_flutter_connect
+description: Development-preview Flutter plugin foundation for local device-to-device connectivity contracts, diagnostics, and platform stubs.
+version: 0.1.0-dev.1
+homepage: https://apliarte.com
+repository: https://github.com/erbolamm/apliarte-flutter-connect
+issue_tracker: https://github.com/erbolamm/apliarte-flutter-connect/issues
+topics:
+  - connectivity
+  - streaming
+  - mdns
+  - flutter-plugin
+  - lan
+
+platforms:
+  android:
+  ios:
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.apliarte.apliarte_flutter_connect
+        pluginClass: ApliarteFlutterConnectPlugin
+      ios:
+        pluginClass: ApliarteFlutterConnectPlugin
