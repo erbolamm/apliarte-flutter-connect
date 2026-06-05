@@ -129,7 +129,7 @@ Herramienta gratuita y open source. Si te ahorra tiempo, un café ayuda a manten
 | Ko-fi | ko-fi.com/C0C11TWR1K |
 | Twitch Tip | streamelements.com/apliarte/tip |
 
-🌐 [Sitio Oficial](https://apliarte.com) · 📦 [GitHub](https://github.com/erbolamm/apliarte-flutter-connect)
+🌐 [Sitio Oficial](https://apliarte.com) · 📦 [GitHub](https://github.com/erbolamm/apliarte-flutter-connect) 📧 [GitHub](https://discord.gg/ZFSD3RdBvW)
 
 ## Licencia
 MIT — © 2026 ApliArte
