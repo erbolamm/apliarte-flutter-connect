@@ -1,3 +1,4 @@
+export 'p2p.dart';
 export 'src/api/apliarte_flutter_connect.dart';
 export 'src/api/connect_capabilities.dart';
 export 'src/api/connect_platform.dart';

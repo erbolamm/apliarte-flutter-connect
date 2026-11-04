@@ -31,3 +31,6 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 /build/
 /coverage/
+
+# Estandar Soberano ErBolamm (ADR-0013)
+control-erbolamm/
